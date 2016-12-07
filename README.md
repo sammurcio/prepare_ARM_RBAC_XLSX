@@ -1,1 +1,1 @@
-# prepareARMRBACXLS.vbs
+# Prepare ARM RBAC XLSX file
